@@ -6,7 +6,7 @@ Requirements:
 
 -Python 3.0 o superior
 
--Importe la base de datos "Mysql" correspondiente de manera local-PONGA como nombre de la base de datos tiendaropa2
+-Importe la base de datos "Mysql" correspondiente de manera local-ponga como nombre de la base de datos tiendaropa2
 
 
 Si tiene problemas con la base de datos, acceda al modulo de conexion y modifique los valores en /Util/Conexion.py
