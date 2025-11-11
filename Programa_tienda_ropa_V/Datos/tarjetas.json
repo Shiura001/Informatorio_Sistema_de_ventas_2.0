@@ -1,0 +1,14 @@
+{
+    "tarjetas": [
+        "Ninguna",
+        "Visa",
+        "Naranja",
+        "Master_Card"
+    ],
+    "costos": [
+        0.0,
+        1.5,
+        2.5,
+        1.5
+    ]
+}
